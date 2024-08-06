@@ -1,0 +1,40 @@
+body{
+    color: $secondary-color;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 26px;
+    @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@700&display=swap');
+}
+
+h6{
+    color: azure;
+
+}
+
+.container-fluid{
+    font-family: Oswald;
+    padding: 30px 0;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+    width: 100%;
+    display: flex;
+}
+
+.container-fluid-header{
+    font-family: Oswald;
+    padding: 0;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    width: 100%;
+    display: flex;
+}
+
+h1, h2, h3,h4,h5, h6{
+    font-weight: bold;    
+    margin: 10px 0;
+}

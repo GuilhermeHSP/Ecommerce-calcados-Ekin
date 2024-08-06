@@ -1,0 +1,17 @@
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap');
+
+//Config
+@import "./variaveis.scss";
+@import './config.scss';
+
+//Components
+@import "./header.scss";
+@import "./nav-produtos.scss";
+@import "./produtos.scss";
+@import "./produtos-compra.scss";
+@import "./footer.scss";
+@import "./responsive.scss";
+
+//Framework
+@import "./bootstrap.scss";

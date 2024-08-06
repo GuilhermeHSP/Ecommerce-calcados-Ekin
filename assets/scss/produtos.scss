@@ -1,0 +1,30 @@
+.produtos{
+    margin: 30px;
+    .produtos-container{
+        margin: 30px 0;
+        transition: all .3s ease-in-out;
+        .produtos-itens{
+            color: rgb(53, 50, 50);
+        h2{
+            font-size: 19px; 
+            margin: 30px 0 0;
+        }
+
+        h6{
+            color: azure;
+            font-size: 30px;
+        }
+
+        .produtos-stars{
+            font-size: 16px;
+            svg{
+                fill: rgb(243, 227, 0);
+            }
+          }
+
+          .produtos-preco{
+            font-size: 16px;
+          }
+        }
+    }
+}
